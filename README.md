@@ -4,7 +4,7 @@
 
 一个无需服务器、打开即用的刷题网页应用。基于课本原文出题，支持分章节练习、模拟考试、智能错题本和数据统计，帮助高效复习期末考试。
 
-**🎯 在线使用：**[k-ristina.github.io/si-xi-quiz](https://k-ristina.github.io/si-xi-quiz/)
+**🎯 在线使用：**[k-ristina.github.io/xi_si_quiz](https://k-ristina.github.io/xi_si_quiz/)
 
 ---
 
@@ -90,7 +90,7 @@
 
 1. Fork 本仓库
 2. Settings → Pages → Source 选 `master` 分支 → Save
-3. 访问 `https://你的用户名.github.io/si-xi-quiz/`
+3. 访问 `https://你的用户名.github.io/xi_si_quiz/`
 
 ### 其他平台
 
